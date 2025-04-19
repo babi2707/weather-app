@@ -152,7 +152,16 @@ button:hover {
 
 .jaison, a {
   color: white;
-  text-align: center;
+  text-align: start;
+  padding-left: 2px;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+
+.github, a {
+  color: white;
+  text-align: start;
+  padding-left: 2px;
   padding-bottom: 2px;
   text-decoration: none;
 }

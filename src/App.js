@@ -60,6 +60,12 @@ function App() {
           )}
         </div>
       </div>
+      <div className="jaison">
+        <a target="_blank" href="https://www.linkedin.com/in/barbara-luciano-araujo/">Developed By - Bárbara Luciano Araújo</a>
+      </div>
+      <div className="github">
+        <a target="_blank" href="https://github.com/babi2707/weather-app">Github code</a>
+      </div>
     </>
   );
 }
