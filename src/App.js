@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <body>
-        <div class="weather-search-conainer">
+        <div class="weather-search-container">
           <h1 className="heading-main">Weather App</h1>
           <form id="weatherForm">
             <input type="text" id="cityInput" placeholder="Enter city name" />
